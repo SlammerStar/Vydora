@@ -112,4 +112,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-<p align="center">Made with ❤️ by the Pratham Nigam</p>
+<p align="center">Made with ❤️ by Pratham Nigam</p>
